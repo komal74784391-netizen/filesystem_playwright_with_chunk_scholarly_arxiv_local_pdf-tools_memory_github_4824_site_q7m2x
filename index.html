@@ -1,1 +1,100 @@
-<!doctype html><title>PagesProbe</title><h1>hello pages</h1>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Waveform Depot — Catalogue</title>
+<link rel="canonical" href="https://komal74784391-netizen.github.io/pw-probe-4689-b/index.html">
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "Segoe UI", Tahoma, Arial, sans-serif; color: #1d2330; background: #f5f6f8; }
+a { color: #1b4f9c; text-decoration: none; }
+.site-header { display: flex; align-items: center; justify-content: space-between; padding: 16px 32px; background: #14213d; color: #fff; }
+.site-header .brand a { color: #fff; font-weight: 700; font-size: 19px; letter-spacing: .4px; }
+.site-nav span, .site-nav a { margin-left: 22px; color: #d9e1f2; font-size: 14px; }
+main { max-width: 1080px; margin: 0 auto; padding: 28px 24px 60px; }
+.breadcrumbs { font-size: 13px; color: #65708a; margin-bottom: 18px; }
+.product-layout { display: grid; grid-template-columns: 340px 1fr; gap: 36px; }
+.product-media { min-height: 300px; border: 1px dashed #b7bfd1; border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #8a94aa; background: #fff; }
+.product-title { margin: 0 0 10px; font-size: 28px; line-height: 1.25; }
+.product-meta { margin: 0 0 22px; color: #5d6782; font-size: 13px; }
+.finish-selector { margin: 18px 0; padding: 14px 16px; background: #fff; border: 1px solid #dfe4ef; border-radius: 9px; }
+.selector-label { font-weight: 600; margin-right: 12px; font-size: 14px; }
+.finish-chip { border: 1px solid #b9c3d8; background: #fff; border-radius: 999px; padding: 7px 16px; margin-right: 9px; cursor: pointer; font-size: 13px; }
+.finish-chip.is-selected { border-color: #14213d; background: #14213d; color: #fff; }
+.variant-panel { background: #fff; border: 1px solid #dfe4ef; border-radius: 10px; padding: 18px; }
+.buybox { margin-bottom: 14px; }
+.buybox-label { margin: 0 0 4px; font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: #77819a; }
+.buybox-price { margin: 0 0 6px; font-size: 30px; font-weight: 700; color: #0e6b3a; }
+.buybox-price.range-price { color: #7a4b00; font-size: 24px; }
+.buybox-seller { margin: 0 0 12px; font-size: 13px; color: #4d5871; }
+.add-to-cart { padding: 10px 22px; border: 0; border-radius: 7px; background: #e8a317; color: #1d2330; font-weight: 700; cursor: pointer; }
+.add-to-cart[disabled] { background: #d9dde7; color: #8c94a5; cursor: not-allowed; }
+.stock-status { display: inline-block; margin: 12px 0 0; font-size: 13px; color: #0e6b3a; }
+.buybox.out-of-stock .stock-status { color: #a12626; }
+.buybox.no-offer { padding: 10px 0; }
+.buying-options { font-weight: 600; }
+.price-notes { border-top: 1px dashed #dfe4ef; padding-top: 12px; font-size: 13px; color: #5d6782; }
+.list-price { margin: 4px 0; }
+.street-range { margin: 4px 0; color: #77819a; }
+.used-offer { margin: 4px 0; color: #6b5323; }
+.related-widget { margin-top: 30px; }
+.related-widget h3 { font-size: 15px; margin-bottom: 10px; }
+.related-widget ul { list-style: none; padding: 0; margin: 0; }
+.related-widget li { display: flex; justify-content: space-between; padding: 9px 0; border-bottom: 1px solid #e6e9f1; font-size: 14px; }
+.related-price { color: #1d2330; font-weight: 600; }
+.catalogue-title { font-size: 30px; margin: 0 0 8px; }
+.catalogue-intro { color: #5d6782; margin: 0 0 20px; }
+.filter-bar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 22px; }
+.filter-bar input { flex: 1 1 240px; padding: 9px 12px; border: 1px solid #c3cbdc; border-radius: 7px; }
+.cat-button { padding: 8px 14px; border: 1px solid #b9c3d8; background: #fff; border-radius: 999px; cursor: pointer; font-size: 13px; }
+.cat-button.is-selected { background: #14213d; color: #fff; border-color: #14213d; }
+.card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; }
+.card { background: #fff; border: 1px solid #dfe4ef; border-radius: 10px; padding: 18px; }
+.card-title { font-size: 17px; margin: 0 0 8px; }
+.card-meta { font-size: 13px; color: #5d6782; margin: 0; }
+footer { text-align: center; font-size: 12px; color: #7a8398; padding: 26px; }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="brand"><a href="index.html">Waveform Depot</a></div>
+  <nav class="site-nav"><a href="index.html">Catalogue</a><span>Deals</span><span>Support</span></nav>
+</header>
+<main>
+  <h1 class="catalogue-title">Waveform Depot catalogue</h1>
+  <p class="catalogue-intro">Independent hi-fi and studio retailer. Finish options and current offers are shown on each listing page.</p>
+  <div class="filter-bar">
+    <input id="search" type="search" placeholder="Search listing title or category" aria-label="Search listings">
+    <button class="cat-button is-selected" data-category="all" type="button">All</button><button class="cat-button" data-category="Cables &amp; Adapters" type="button">Cables &amp; Adapters</button><button class="cat-button" data-category="DAC &amp; Headphone Amp" type="button">DAC &amp; Headphone Amp</button><button class="cat-button" data-category="Studio Monitors" type="button">Studio Monitors</button>
+  </div>
+  <div class="card-grid" id="card-grid"><article class="card" data-category="DAC &amp; Headphone Amp" data-title="aurora mini usb dac"><h2 class="card-title"><a href="items/DA-101.html">Aurora Mini USB DAC</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-101 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="pulselab ampone headphone amplifier"><h2 class="card-title"><a href="items/DA-102.html">PulseLab AmpOne Headphone Amplifier</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-102 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="tessera dm-4 desktop dac/amp"><h2 class="card-title"><a href="items/DA-103.html">Tessera DM-4 Desktop DAC/Amp</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-103 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="nocturne hpa-2 tube amplifier"><h2 class="card-title"><a href="items/DA-104.html">Nocturne HPA-2 Tube Amplifier</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-104 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="redwood sound r2 portable dac"><h2 class="card-title"><a href="items/DA-105.html">Redwood Sound R2 Portable DAC</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-105 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="clearwave c5 balanced amplifier"><h2 class="card-title"><a href="items/DA-106.html">Clearwave C5 Balanced Amplifier</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-106 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="veneer audio v1 dac"><h2 class="card-title"><a href="items/DA-107.html">Veneer Audio V1 DAC</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-107 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="kestrel dac-8 reference"><h2 class="card-title"><a href="items/DA-108.html">Kestrel DAC-8 Reference</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-108 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="marlin audio pa-3 preamp"><h2 class="card-title"><a href="items/DA-109.html">Marlin Audio PA-3 Preamp</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-109 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="DAC &amp; Headphone Amp" data-title="solace s1 dac"><h2 class="card-title"><a href="items/DA-110.html">Solace S1 DAC</a></h2><p class="card-meta">DAC &amp; Headphone Amp · Item DA-110 · Finishes: Charcoal, Sand</p></article><article class="card" data-category="Cables &amp; Adapters" data-title="shielded usb-c cable (1 m)"><h2 class="card-title"><a href="items/CB-201.html">Shielded USB-C Cable (1 m)</a></h2><p class="card-meta">Cables &amp; Adapters · Item CB-201 · Finishes: Graphite, Braided</p></article><article class="card" data-category="Studio Monitors" data-title="nearfield monitor 5-inch"><h2 class="card-title"><a href="items/SM-301.html">Nearfield Monitor 5-inch</a></h2><p class="card-meta">Studio Monitors · Item SM-301 · Finishes: Charcoal, Slate</p></article></div>
+</main>
+<footer>Waveform Depot catalogue mirror · all listings are subject to stock and finish availability.</footer>
+<script>
+(function () {
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.card'));
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.cat-button'));
+  var search = document.getElementById('search');
+  var activeCat = 'all';
+  function apply() {
+    var q = (search.value || '').toLowerCase().trim();
+    cards.forEach(function (card) {
+      var catOk = activeCat === 'all' || card.dataset.category === activeCat;
+      var textOk = !q || (card.dataset.title + ' ' + card.dataset.category.toLowerCase()).indexOf(q) !== -1;
+      card.style.display = (catOk && textOk) ? '' : 'none';
+    });
+  }
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () {
+      activeCat = b.dataset.category;
+      buttons.forEach(function (x) { x.classList.toggle('is-selected', x === b); });
+      apply();
+    });
+  });
+  search.addEventListener('input', apply);
+})();
+</script>
+</body>
+</html>
