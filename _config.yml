@@ -1,9 +1,2 @@
 title: Kestrel Applied Systems Group
 theme: jekyll-theme-minimal
-collections:
-  talks:
-    output: true
-  teaching:
-    output: true
-  portfolio:
-    output: true
