@@ -1,0 +1,30 @@
+{
+  "id": "helix-routing-benchmark-2024",
+  "title": "Helix Routing Benchmark Sweep",
+  "contributors": [
+    {
+      "name": "Priyanka Deshmukh",
+      "equal_contribution": true
+    },
+    {
+      "name": "Owen Lassiter",
+      "equal_contribution": true
+    },
+    {
+      "name": "Sofia Marchetti",
+      "equal_contribution": false
+    }
+  ],
+  "venue": "Benchmarking Workshop Notes",
+  "year": 2024,
+  "published_on": "2024-09-02",
+  "links": {
+    "record": "https://github.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/blob/main/archive/records/helix-routing-benchmark-2024.json",
+    "brief": "https://raw.githubusercontent.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/main/archive/briefs/helix-routing-benchmark-2024.pdf"
+  },
+  "summary_points": [
+    "Swept six routing heuristics on a frozen support-ticket replay.",
+    "Reported accuracy and latency trade-offs for offline evaluation.",
+    "Recommended a follow-up pilot with live traffic."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "northgate-coldchain-2025",
+  "title": "Cold-Chain Telemetry Recovery at Northgate Depot",
+  "contributors": [
+    {
+      "name": "Noelle Vandermeer",
+      "equal_contribution": true
+    },
+    {
+      "name": "Ines Kowalczyk",
+      "equal_contribution": false
+    },
+    {
+      "name": "Peter Brandt",
+      "equal_contribution": false
+    }
+  ],
+  "venue": "Symposium on Field Systems Reliability",
+  "year": 2025,
+  "published_on": "2025-04-22",
+  "links": {
+    "record": "https://github.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/blob/main/archive/records/northgate-coldchain-2025.json",
+    "brief": "https://raw.githubusercontent.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/main/archive/briefs/northgate-coldchain-2025.pdf"
+  },
+  "summary_points": [
+    "Root-cause analysis traced the winter outage to a firmware clock drift on depot gateways.",
+    "Rewrote the cold-chain reconciliation job to replay buffered sensor frames.",
+    "Restored 48-hour delivery SLA compliance across three regional hubs."
+  ]
+}

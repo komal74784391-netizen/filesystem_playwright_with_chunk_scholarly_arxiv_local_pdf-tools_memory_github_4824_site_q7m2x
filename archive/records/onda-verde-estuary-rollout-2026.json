@@ -1,0 +1,46 @@
+{
+  "id": "onda-verde-estuary-rollout-2026",
+  "title": "Onda Verde Estuary Sensor Rollout",
+  "contributors": [
+    {
+      "name": "Dmitri Falkenrath",
+      "equal_contribution": true
+    },
+    {
+      "name": "Noelle Vandermeer",
+      "equal_contribution": true
+    },
+    {
+      "name": "Rafael Ibarra-Ochoa",
+      "equal_contribution": false
+    },
+    {
+      "name": "Sunita Perumal",
+      "equal_contribution": false
+    },
+    {
+      "name": "Tomasz Bielawski",
+      "equal_contribution": false
+    },
+    {
+      "name": "Hana Kirchner",
+      "equal_contribution": false
+    },
+    {
+      "name": "Yusuf Adeyemi",
+      "equal_contribution": false
+    }
+  ],
+  "venue": "Symposium on Field Systems Reliability",
+  "year": 2026,
+  "published_on": "2026-08-19",
+  "links": {
+    "record": "https://github.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/blob/main/archive/records/onda-verde-estuary-rollout-2026.json",
+    "brief": "https://raw.githubusercontent.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/main/archive/briefs/onda-verde-estuary-rollout-2026.pdf"
+  },
+  "summary_points": [
+    "Deployed 42 turbidity and salinity sensors across the Onda Verde estuary.",
+    "Calibrated drift compensation against the tidal reference station.",
+    "Cut manual sampling effort by roughly two thirds over the season."
+  ]
+}

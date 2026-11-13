@@ -1,0 +1,30 @@
+{
+  "id": "harbor-swell-tide-gauge-2025",
+  "title": "Harbor Swell Tide-Gauge Retrofit",
+  "contributors": [
+    {
+      "name": "Adrian Volkov",
+      "equal_contribution": false
+    },
+    {
+      "name": "Imani Bello",
+      "equal_contribution": false
+    },
+    {
+      "name": "Chen Rui",
+      "equal_contribution": false
+    }
+  ],
+  "venue": "Coastal Monitoring Workshop",
+  "year": 2025,
+  "published_on": "2025-02-16",
+  "links": {
+    "record": "https://github.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/blob/main/archive/records/harbor-swell-tide-gauge-2025.json",
+    "brief": "https://raw.githubusercontent.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/main/archive/briefs/harbor-swell-tide-gauge-2025.pdf"
+  },
+  "summary_points": [
+    "Retrofitted the harbor tide gauge with a digital encoder.",
+    "Validated readings against the regional reference station.",
+    "Documented the maintenance schedule for the harbor authority."
+  ]
+}

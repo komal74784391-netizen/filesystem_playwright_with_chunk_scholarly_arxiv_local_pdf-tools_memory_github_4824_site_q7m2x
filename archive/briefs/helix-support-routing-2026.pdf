@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 688 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 72 730 Tm
+14 TL
+(Helix Support Routing Pilot - Field Case Study Brief) Tj
+T*
+() Tj
+T*
+(Venue: Applied Operations Conference 2026) Tj
+T*
+(Published: 2026-10-07) Tj
+T*
+() Tj
+T*
+(Contributors \(in order\):) Tj
+T*
+(1. Georgia Lindqvist) Tj
+T*
+(2. Noelle Vandermeer) Tj
+T*
+(3. Bogdan Stryker) Tj
+T*
+(4. Amara Nwosu) Tj
+T*
+(5. Xinyi Zhao) Tj
+T*
+(6. Elliot Marsh) Tj
+T*
+() Tj
+T*
+(Equal contribution: Bogdan Stryker, Amara Nwosu) Tj
+T*
+() Tj
+T*
+(Introduced intent-aware routing for the Helix tier-2 support queue.) Tj
+T*
+(Reduced first-response latency by 27 percent across the six-week pilot.) Tj
+T*
+(Documented the escalation policy now used by three partner teams.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1049
+%%EOF

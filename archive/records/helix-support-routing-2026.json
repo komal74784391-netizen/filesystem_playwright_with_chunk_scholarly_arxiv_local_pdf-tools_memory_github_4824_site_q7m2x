@@ -1,0 +1,42 @@
+{
+  "id": "helix-support-routing-2026",
+  "title": "Helix Support Routing Pilot",
+  "contributors": [
+    {
+      "name": "Georgia Lindqvist",
+      "equal_contribution": false
+    },
+    {
+      "name": "Noelle Vandermeer",
+      "equal_contribution": false
+    },
+    {
+      "name": "Bogdan Stryker",
+      "equal_contribution": true
+    },
+    {
+      "name": "Amara Nwosu",
+      "equal_contribution": true
+    },
+    {
+      "name": "Xinyi Zhao",
+      "equal_contribution": false
+    },
+    {
+      "name": "Elliot Marsh",
+      "equal_contribution": false
+    }
+  ],
+  "venue": "Applied Operations Conference",
+  "year": 2026,
+  "published_on": "2026-10-07",
+  "links": {
+    "record": "https://github.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/blob/main/archive/records/helix-support-routing-2026.json",
+    "brief": "https://raw.githubusercontent.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/main/archive/briefs/helix-support-routing-2026.pdf"
+  },
+  "summary_points": [
+    "Introduced intent-aware routing for the Helix tier-2 support queue.",
+    "Reduced first-response latency by 27 percent across the six-week pilot.",
+    "Documented the escalation policy now used by three partner teams."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "parcel-queue-hubs-2024",
+  "title": "Adaptive Queueing for Regional Parcel Hubs",
+  "contributors": [
+    {
+      "name": "Noelle Vandermeer",
+      "equal_contribution": false
+    },
+    {
+      "name": "Marta Vukovic",
+      "equal_contribution": true
+    },
+    {
+      "name": "Kenji Arata",
+      "equal_contribution": true
+    }
+  ],
+  "venue": "Symposium on Field Systems Reliability",
+  "year": 2024,
+  "published_on": "2024-11-08",
+  "links": {
+    "record": "https://github.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/blob/main/archive/records/parcel-queue-hubs-2024.json",
+    "brief": "https://raw.githubusercontent.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/main/archive/briefs/parcel-queue-hubs-2024.pdf"
+  },
+  "summary_points": [
+    "Replaced static dispatch thresholds with load-aware queue partitioning.",
+    "Cut tail wait time at two pilot hubs by 31 percent over the holiday peak.",
+    "Published the tuning playbook for partner depots."
+  ]
+}

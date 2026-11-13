@@ -1,0 +1,30 @@
+{
+  "id": "onda-verde-sediment-baseline-2024",
+  "title": "Onda Verde Sediment-Calibration Baseline",
+  "contributors": [
+    {
+      "name": "Lena Ostrowski",
+      "equal_contribution": false
+    },
+    {
+      "name": "Marcus Bell",
+      "equal_contribution": false
+    },
+    {
+      "name": "Anita Gomez",
+      "equal_contribution": false
+    }
+  ],
+  "venue": "Coastal Monitoring Workshop",
+  "year": 2024,
+  "published_on": "2024-06-14",
+  "links": {
+    "record": "https://github.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/blob/main/archive/records/onda-verde-sediment-baseline-2024.json",
+    "brief": "https://raw.githubusercontent.com/komal74784391-netizen/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_4824_site_q7m2x/main/archive/briefs/onda-verde-sediment-baseline-2024.pdf"
+  },
+  "summary_points": [
+    "Established a sediment sampling baseline before sensor procurement.",
+    "Compared three laboratory calibration protocols on shared samples.",
+    "Reported reference values for future estuary deployments."
+  ]
+}

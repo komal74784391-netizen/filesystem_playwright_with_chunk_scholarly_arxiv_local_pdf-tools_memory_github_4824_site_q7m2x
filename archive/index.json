@@ -1,0 +1,93 @@
+{
+  "service": "Kestrel Field Archive",
+  "updated": "2026-11-10",
+  "records": [
+    {
+      "id": "helix-support-routing-2026",
+      "title": "Helix Support Routing Pilot",
+      "keywords": [
+        "helix",
+        "support",
+        "routing",
+        "pilot",
+        "triage"
+      ],
+      "published_on": "2026-10-07",
+      "summary": "Intent-aware routing pilot for the Helix tier-2 support queue."
+    },
+    {
+      "id": "onda-verde-estuary-rollout-2026",
+      "title": "Onda Verde Estuary Sensor Rollout",
+      "keywords": [
+        "onda verde",
+        "estuary",
+        "sensor",
+        "rollout",
+        "turbidity"
+      ],
+      "published_on": "2026-08-19",
+      "summary": "Estuary sensor network rollout with tidal drift calibration."
+    },
+    {
+      "id": "northgate-coldchain-2025",
+      "title": "Cold-Chain Telemetry Recovery at Northgate Depot",
+      "keywords": [
+        "northgate",
+        "cold chain",
+        "telemetry",
+        "depot"
+      ],
+      "published_on": "2025-04-22",
+      "summary": "Telemetry recovery after a winter firmware clock drift outage."
+    },
+    {
+      "id": "parcel-queue-hubs-2024",
+      "title": "Adaptive Queueing for Regional Parcel Hubs",
+      "keywords": [
+        "parcel",
+        "queueing",
+        "hubs",
+        "dispatch"
+      ],
+      "published_on": "2024-11-08",
+      "summary": "Load-aware queue partitioning for regional parcel depots."
+    },
+    {
+      "id": "onda-verde-sediment-baseline-2024",
+      "title": "Onda Verde Sediment-Calibration Baseline",
+      "keywords": [
+        "onda verde",
+        "sediment",
+        "calibration",
+        "baseline"
+      ],
+      "published_on": "2024-06-14",
+      "summary": "Pre-deployment sediment sampling baseline for the estuary program."
+    },
+    {
+      "id": "helix-routing-benchmark-2024",
+      "title": "Helix Routing Benchmark Sweep",
+      "keywords": [
+        "helix",
+        "routing",
+        "benchmark",
+        "sweep",
+        "offline"
+      ],
+      "published_on": "2024-09-02",
+      "summary": "Offline benchmark sweep of routing heuristics, not a deployment."
+    },
+    {
+      "id": "harbor-swell-tide-gauge-2025",
+      "title": "Harbor Swell Tide-Gauge Retrofit",
+      "keywords": [
+        "harbor",
+        "swell",
+        "tide gauge",
+        "retrofit"
+      ],
+      "published_on": "2025-02-16",
+      "summary": "Mechanical retrofit of an older tide-gauge installation."
+    }
+  ]
+}
