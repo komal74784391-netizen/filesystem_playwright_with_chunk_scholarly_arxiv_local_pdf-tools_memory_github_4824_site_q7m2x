@@ -3,3 +3,13 @@ main:
     url: /
   - title: "Case Studies"
     url: /casebook/
+  - title: "CV"
+    url: /cv/
+  - title: "Talks"
+    url: /talks/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Blog"
+    url: /blog/
+  - title: "Portfolio"
+    url: /portfolio/
